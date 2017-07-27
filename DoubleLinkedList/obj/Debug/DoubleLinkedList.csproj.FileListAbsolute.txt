@@ -1,0 +1,6 @@
+C:\Users\t-jawoon\documents\visual studio 2017\Projects\DoubleLinkedList\DoubleLinkedList\bin\Debug\DoubleLinkedList.exe.config
+C:\Users\t-jawoon\documents\visual studio 2017\Projects\DoubleLinkedList\DoubleLinkedList\bin\Debug\DoubleLinkedList.exe
+C:\Users\t-jawoon\documents\visual studio 2017\Projects\DoubleLinkedList\DoubleLinkedList\bin\Debug\DoubleLinkedList.pdb
+C:\Users\t-jawoon\documents\visual studio 2017\Projects\DoubleLinkedList\DoubleLinkedList\obj\Debug\DoubleLinkedList.csprojResolveAssemblyReference.cache
+C:\Users\t-jawoon\documents\visual studio 2017\Projects\DoubleLinkedList\DoubleLinkedList\obj\Debug\DoubleLinkedList.exe
+C:\Users\t-jawoon\documents\visual studio 2017\Projects\DoubleLinkedList\DoubleLinkedList\obj\Debug\DoubleLinkedList.pdb
